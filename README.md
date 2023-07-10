@@ -1,2 +1,2 @@
 # ViTLibras
-Usage of Vit architecture in Libras translation to portuguese
+Usage of Vit architecture in Libras facial expressions classification taxonomy.
